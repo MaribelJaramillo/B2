@@ -1,4 +1,4 @@
-//SUMA DE VARIOS NUMEROS 
+//Punto De Venta 
 //Creado por MaribelJaramillo
 #include<iostream>
 using namespace std;
