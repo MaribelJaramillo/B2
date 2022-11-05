@@ -1,4 +1,4 @@
-// SUMA DE VARIOS NUMEROS
+// Promedio Mas Alto
 // Creado por Maribel Jaramillo
 #include <iostream>
 
